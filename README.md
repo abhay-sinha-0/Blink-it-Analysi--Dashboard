@@ -1,5 +1,3 @@
-# Blink-it-Analysi--Dashboard
-
 # Blinkit Data Analysis Dashboard
 
 ## Project Overview
